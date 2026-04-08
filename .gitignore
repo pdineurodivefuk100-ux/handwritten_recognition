@@ -1,0 +1,33 @@
+# 仮想環境
+gpu-env/
+venv/
+.env/
+.venv-gpu/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+data/
+
+# Model
+model/
+models/
+
+# result
+results/
+
+# output
+test_predictions.csv
